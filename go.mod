@@ -34,8 +34,8 @@ require (
 	github.com/go-openapi/strfmt v0.21.3
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/golang-jwt/jwt v3.2.2+incompatible
-	github.com/golang/protobuf v1.5.2
-	github.com/google/go-containerregistry v0.11.0
+	github.com/golang/protobuf v1.5.4
+	github.com/google/go-containerregistry v0.8.0
 	github.com/google/licenseclassifier/v2 v2.0.0-pre6
 	github.com/google/uuid v1.3.0
 	github.com/google/wire v0.5.0
@@ -56,7 +56,7 @@ require (
 	github.com/package-url/packageurl-go v0.1.1-0.20220203205134-d70459300c8a
 	github.com/samber/lo v1.27.1
 	github.com/secure-systems-lab/go-securesystemslib v0.4.0
-	github.com/sigstore/rekor v0.12.0
+	github.com/sigstore/rekor v0.2.0
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
@@ -70,7 +70,7 @@ require (
 	go.uber.org/zap v1.23.0
 	golang.org/x/exp v0.0.0-20220823124025-807a23277127
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/utils v0.0.0-20220210201930-3a6ce19ff2f9
 )
