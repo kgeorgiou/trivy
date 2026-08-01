@@ -37,7 +37,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-containerregistry v0.11.0
 	github.com/google/licenseclassifier/v2 v2.0.0-pre6
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.5.0
 	github.com/hashicorp/go-getter v1.6.2
 	github.com/in-toto/in-toto-golang v0.3.4-0.20220709202702-fa494aaa0add
